@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+h1 {
+    color: #005a9c;
+}
+
+#jogo {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #aaa;
+}
+
+button {
+    margin: 10px;
+    padding: 8px 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #005a9c;
+    color: white;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #00407a;
+}
+
+input {
+    margin-right: 5px;
+}
